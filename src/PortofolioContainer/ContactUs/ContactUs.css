@@ -1,0 +1,87 @@
+.contact-us-container {
+  display: flex;
+  justify-content: center;
+  background-color: #063255;
+}
+.contact-us-parent {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin-top: 50px;
+  color: #fff;
+  font-family: "Poppins Semibold";
+}
+.contact-us-left {
+  width: 30%;
+}
+.contact-us-left span {
+  font-size: 20px;
+}
+.contact-us-left h4 {
+  padding-top: 20px;
+}
+.contact-us-left .icon i {
+  color: white;
+  padding: 8px;
+  padding-left: 0px;
+}
+.contact-us-left .icon i:hover {
+  transform: scale(1.5);
+}
+.contact-us-left p {
+  font-size: 12px;
+  padding-top: 100px;
+}
+.contact-us-mid{
+    padding-right: 100px;
+    padding-left: 50px;
+}
+.contact-us-mid p{
+    font-size: 10px;
+    padding-top: 10px;
+}
+.contact-us-mid a{
+    font-size: 12px;
+}
+.contact-us-mid1{
+    padding-right: 100px;
+}
+.contact-us-mid1 p{
+    font-size: 10px;
+    padding-top: 10px;
+}
+.contact-us-mid1 a{
+    font-size: 12px;
+}
+
+.contact-us-right p{
+    padding-top: 120px;
+    font-size: 12px;
+}
+.contact-us-right a{
+    font-size: 12px;
+}
+.subscribe{
+    min-height: 2.5rem;
+    padding-right: 2rem;
+    padding-left: 1rem;
+    border-radius: 2rem;
+    background-color: #fff;
+    font-size: 12px;
+    border: none;
+}
+.button.is-form-subscribe {
+    margin-top: 20px;
+    padding: 10px 0;
+    width: 120px;
+    border-radius: 1.9375rem;
+    background-color: #f58a07;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+}
+.contact-us-form{
+    display: flex;
+    flex-direction: column;
+
+}

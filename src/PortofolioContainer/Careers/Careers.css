@@ -1,0 +1,167 @@
+.careers-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 0 0;
+}
+.careers-parent {
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  width: 70%;
+}
+.careers-parent img {
+  width: 350px;
+  height: 400px;
+  filter: grayscale(100);
+  border-radius: 5%;
+  margin-left: 220px;
+}
+
+.careers-parent h1 {
+  font-size: 30px;
+  font-family: "Poppins Semibold";
+  width: 40%;
+}
+.paragraph {
+  width: 30%;
+  font-size: 14px;
+  margin-top: -20%;
+  margin-left: -40%;
+  font-family: "Poppins Regular";
+  padding-left: 0px;
+}
+
+.careers-grid {
+  display: flex;
+  flex-direction: row;
+  padding-left: 5rem;
+  width: 70rem;
+  grid-gap: 2rem;
+  align-items: start;
+}
+.careers-grid .grid-item {
+  background-color: transparent;
+  border-radius: 0.4rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.careers-card .card-content {
+  padding-top: 10px;
+}
+.careers-card h1 {
+  font-size: 25px;
+  font-family: "Poppins Semibold";
+  padding-top: 10px;
+  color: #f58a07;
+}
+.careers-card h2 {
+  font-size: 18px;
+  font-family: "Poppins Semibold";
+}
+.careers-card p {
+  font-size: 12px;
+  width: 180px;
+}
+
+.careers-section {
+  margin-top: 100px;
+  border-radius: 20px;
+  width: 70%;
+  height: 400px;
+  background-color: #edf7ff;
+}
+.careers-section .careers-content {
+  width: 60%;
+}
+.careers-content .header {
+  display: flex;
+  flex-direction: row;
+  padding-left: 200px;
+}
+
+.button-highlihted{
+  border-radius: 50px;
+  padding: 10px;
+  margin-top: 30px;
+  margin-left: 30px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-family: "Poppins Bold";
+  border: none;
+  font-size: 12px;
+  background-color: #fff;
+  color: #f58a07;
+}
+.button-transparent{
+  border-radius: 50px;
+  padding: 5px;
+  height: 35px;
+  width: 120px;
+  margin: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-family: "Poppins Semibold";
+  border-color: rgb(30, 14, 245);
+  opacity: 50%;
+  background: none;
+  font-size: 12px;
+  color: rgb(30, 14, 245);
+}
+
+.header h1 {
+  margin-left: -170px;
+  margin-top: 30px;
+  font-size: 35px;
+  font-family: "Poppins Semibold";
+  min-width: 110%;
+}
+.header img{
+  height: 300px;
+  filter: grayscale(100);
+  border-radius: 5%;
+  margin-left: 180px;
+}
+.header-paragraph{
+  width: 70%;
+  font-family: "Poppins Regular";
+  font-size: 12px;
+  margin-left: 30px;
+  margin-top: -130px;
+
+}
+.header-paragraph a{
+  font-size: 12px;
+  cursor: pointer;
+  color: #f58a07;
+  text-decoration: none;
+}
+
+/*IPAD PRO RESPONSIVENESS*/
+@media only screen and (max-width: 1110px) {
+  .careers-parent {
+    width: 88%;
+  }
+}
+@media only screen and (max-width: 898px) {
+  .careers-profile {
+    display: none;
+  }
+  .careers-details {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 466px) {
+  .careers-options {
+    display: flex;
+    flex-direction: column;
+  }
+  .careers-options .highlighted-button {
+    margin: 24px 0 0 0 !important;
+  }
+  .careers-options button {
+    width: 100%;
+  }
+}
