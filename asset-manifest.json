@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/test-frontend/static/css/main.f4210916.chunk.css",
+    "main.js": "/test-frontend/static/js/main.56a5cb9b.chunk.js",
+    "main.js.map": "/test-frontend/static/js/main.56a5cb9b.chunk.js.map",
+    "runtime-main.js": "/test-frontend/static/js/runtime-main.8fa3b509.js",
+    "runtime-main.js.map": "/test-frontend/static/js/runtime-main.8fa3b509.js.map",
+    "static/js/2.5bc18435.chunk.js": "/test-frontend/static/js/2.5bc18435.chunk.js",
+    "static/js/2.5bc18435.chunk.js.map": "/test-frontend/static/js/2.5bc18435.chunk.js.map",
+    "static/js/3.bd517851.chunk.js": "/test-frontend/static/js/3.bd517851.chunk.js",
+    "static/js/3.bd517851.chunk.js.map": "/test-frontend/static/js/3.bd517851.chunk.js.map",
+    "index.html": "/test-frontend/index.html",
+    "static/css/main.f4210916.chunk.css.map": "/test-frontend/static/css/main.f4210916.chunk.css.map",
+    "static/js/2.5bc18435.chunk.js.LICENSE.txt": "/test-frontend/static/js/2.5bc18435.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-frontend/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/author.b65c6dc5.png": "/test-frontend/static/media/author.b65c6dc5.png",
+    "static/media/bisnis-strategi.475a78a6.jpeg": "/test-frontend/static/media/bisnis-strategi.475a78a6.jpeg",
+    "static/media/blog.2ab9598c.jpg": "/test-frontend/static/media/blog.2ab9598c.jpg",
+    "static/media/blog2.a51c6ebe.jpg": "/test-frontend/static/media/blog2.a51c6ebe.jpg",
+    "static/media/blog3.01362f4d.jpg": "/test-frontend/static/media/blog3.01362f4d.jpg",
+    "static/media/careers.fa110916.jpg": "/test-frontend/static/media/careers.fa110916.jpg",
+    "static/media/digitalisasi.0657b742.jpeg": "/test-frontend/static/media/digitalisasi.0657b742.jpeg",
+    "static/media/invoicing.ef9cb639.svg": "/test-frontend/static/media/invoicing.ef9cb639.svg",
+    "static/media/logo1.1727d59d.svg": "/test-frontend/static/media/logo1.1727d59d.svg",
+    "static/media/logo2.7f02c2d2.svg": "/test-frontend/static/media/logo2.7f02c2d2.svg",
+    "static/media/logo3.1cd7ca64.svg": "/test-frontend/static/media/logo3.1cd7ca64.svg",
+    "static/media/men.6f4cd87b.png": "/test-frontend/static/media/men.6f4cd87b.png",
+    "static/media/risk.a6a0b4bf.jpeg": "/test-frontend/static/media/risk.a6a0b4bf.jpeg",
+    "static/media/service.dc0c2cfe.jpg": "/test-frontend/static/media/service.dc0c2cfe.jpg",
+    "static/media/services.0a3fef5c.jpeg": "/test-frontend/static/media/services.0a3fef5c.jpeg",
+    "static/media/support.254d8b2d.svg": "/test-frontend/static/media/support.254d8b2d.svg",
+    "static/media/survey.6c5b69ae.svg": "/test-frontend/static/media/survey.6c5b69ae.svg",
+    "static/media/vidioCover.b354dddd.jpeg": "/test-frontend/static/media/vidioCover.b354dddd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa3b509.js",
+    "static/js/2.5bc18435.chunk.js",
+    "static/css/main.f4210916.chunk.css",
+    "static/js/main.56a5cb9b.chunk.js"
+  ]
+}
