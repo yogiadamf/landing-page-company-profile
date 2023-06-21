@@ -1,7 +1,7 @@
 {
   "name": "testfrontend",
   "version": "0.1.0",
-  "homepage": "https://yogiadamf.github.io/test-frontend",
+  "homepage": "https://yogiadamf.github.io/landing-page-company-profile",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
